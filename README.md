@@ -19,7 +19,7 @@ int main()
 }
 ```
 
-## Usage
+## Implementation
 
 ### Creating new graph
 
